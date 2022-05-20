@@ -1,4 +1,4 @@
-## Movie Recommender System
+# Movie Recommender System
 This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. 
 
 # Project Link
