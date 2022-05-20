@@ -1,6 +1,7 @@
 # Movie Recommender System
-This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. Interface is made using streamlit framework and deployed on heroku.
+This Movie Recommendation System displays you 5 different movie names similar to the movie which you select from the list of 5000 movies. 
 
+# Project Link
 https://free-movie-recommendation.herokuapp.com/
 
 # Statement
@@ -27,5 +28,5 @@ https://free-movie-recommendation.herokuapp.com/
   
 # Created By
 - Vishal Jaiswar
-- vishal.jaiswar888@gmail.com
+- Email Id: vishal.jaiswar888@gmail.com
 - LinkedIn: https://www.linkedin.com/in/vishaljaiswar/
