@@ -6,6 +6,7 @@ https://free-movie-recommendation.herokuapp.com/
 
 ## Statement
 - So in the background I am using NLP(Natural Language Processing) and Text Vectorization such that after concatenation I can convert the data into required format to perform the operations and to get the strong positive similarity between any given data we select from the list of 5000 datasets. 
+
 - Interface made using streamlit framework and deployed on heroku.
 
 - And for the posters, I am using tmdb API to fetch it as per their unique ids.
@@ -28,5 +29,7 @@ https://free-movie-recommendation.herokuapp.com/
   
 ## Created By
 - Vishal Jaiswar
+
 - Email Id: vishal.jaiswar888@gmail.com
+
 - LinkedIn: https://www.linkedin.com/in/vishaljaiswar/
